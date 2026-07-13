@@ -1,2 +1,0 @@
-esto es contenido de la rama 2
-estoy trabajando en una nueva rama
